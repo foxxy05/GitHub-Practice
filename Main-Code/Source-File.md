@@ -4,8 +4,6 @@
 ## Hello from Source
 ## Added Source-Configurations
 
-## This is feature one, added from the feature-one branch
-## This feature should work
 
 ## This is the new configs
 ## New config 1
