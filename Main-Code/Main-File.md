@@ -8,7 +8,9 @@
 
 
 # Hi from prathamesh, new contributor
-## Feature-two successfully added, should work
+## Changing feature-two
+## Modified feature
+## SensorA Integration main code
 
 ## These are the new configs
 ## New config 1
@@ -16,3 +18,5 @@
 
 ## This is a new function
 ## Another new function added
+
+
