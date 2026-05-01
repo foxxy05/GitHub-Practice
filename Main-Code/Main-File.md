@@ -14,4 +14,5 @@
 ## New config 1
 ## New config 2
 
-# This is a new function
+## This is a new function
+## Another new function added
