@@ -13,3 +13,5 @@
 ## These are the new configs
 ## New config 1
 ## New config 2
+
+# This is a new function
