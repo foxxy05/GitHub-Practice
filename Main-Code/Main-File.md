@@ -9,3 +9,10 @@
 
 # Hi from prathamesh, new contributor
 ## Feature-two successfully added, should work
+
+## These are the new configs
+## New config 1
+## New config 2
+
+## This is a new function
+## Another new function added
